@@ -1,0 +1,5 @@
+fastapi[all]==0.82.0
+uvicorn[standard]==0.17.6
+SQLAlchemy==1.4.44
+fastapi-utils==0.2.1
+
